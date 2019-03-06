@@ -50,8 +50,12 @@ img {
     transition: 0.3s;
 }
 
-.languages {
+.skills {
     margin-top: 20%;
+}
+
+.projects {
+    margin-top: 10%;
 }
 
 .icons i {
